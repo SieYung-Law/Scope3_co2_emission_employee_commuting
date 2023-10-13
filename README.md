@@ -42,7 +42,7 @@
 + **Problem**:Estimating CO2 emissions for employee commuting in Scope 3 Sustainability Reporting can be quite time-consuming, primarily because it involves laborious calculations of the distances between employees' locations and their workplaces.
 + **Project goal**: Implement automation for distance calculations utilizing the Google Maps API in Python to streamline and simplify the labor-intensive data processing tasks. The established automation process for distance-based method CO2 emission estimation will be then used in supply-chain CO2 emission estimation.
 
-<img src="images/map.png" alt="Employee location map" width="80%"> 
+<img src="images/map.png" alt="Employee location map" width="60%"> 
 
 <!-- DATA COLLECTION -->
 ## Data Collection
@@ -59,6 +59,7 @@
 ## Data Visualization
 + **Python data visualization**: Spreaded locations of company's employees and the total CO2 emission by type of vehicle used were shown using Python data visualization packages. Annual employee commuting emissions can be included in the scope3 CO2 emission for Sustainability Reporting.
 
+<img src="images/employee_commuting_CO2_e.png" alt="Annual Employee Commuting Footprint" width="60%"> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
