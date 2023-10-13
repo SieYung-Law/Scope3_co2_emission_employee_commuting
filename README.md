@@ -41,8 +41,8 @@
 ## Motivation
 + **Problem**:Estimating CO2 emissions for employee commuting in Scope 3 Sustainability Reporting can be quite time-consuming, primarily because it involves laborious calculations of the distances between employees' locations and their workplaces.
 + **Project goal**: Implement automation for distance calculations utilizing the Google Maps API in Python to streamline and simplify the labor-intensive data processing tasks. The established automation process for distance-based method CO2 emission estimation will be then used in supply-chain CO2 emission estimation.
-Visualized property locations on an interactive map of Singapore ([link here](https://jensbender.github.io/rental-price-prediction/map.html)) using Python's Folium library.   
-<img src="images/map.png" alt="Property map" width="80%"> 
+
+<img src="images/map.html" alt="Employee location map" width="80%"> 
 
 <!-- DATA COLLECTION -->
 ## Data Collection
